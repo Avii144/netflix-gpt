@@ -6,6 +6,29 @@
 - Header
 - Login Form
 - sign-up form
+- Form validation
+- useRef hook
+- firebase setup
+- deploying app to production
+- create sign up user account
+- Implemented signiun user APi
+- created Redux store with userslice
+- implemented sign out
+- update profile
+- bug fix:sign up user display name and profile pic update
+- bug fix: if the user is not logged in Redirect/browse to login page and vice-versa
+- Unsubscribed to the onAuthStateChanged callback
+- added hardcoded values to the constantrs
+- Register TMdb API & create an application & get acces token
+- get Data from tmdb now playing movieslist APi
+- custom hook for nowplayingMovies
+- created movieslice
+- Update store with movies data
+- Planning for Main container and secondary container
+- Fetch data for trailer video
+- update store with trailer video data
+- embedded the youtube video make it autoplay and mute
+- Tailwind classes to make main container look awesome
 
 # Features
 
